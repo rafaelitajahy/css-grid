@@ -1,0 +1,135 @@
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  background: black;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.div1 {
+  background: #e57373;
+}
+
+.div2 {
+  background: #ba68c8;
+}
+
+.div3 {
+  background: #8e44ad;
+}
+
+.div4 {
+  background: #1abc9c;
+}
+
+.div5 {
+  background: #16a085;
+}
+
+.div6 {
+  background: #2ecc71;
+}
+
+.div7 {
+  background: #27ae60;
+}
+
+.div8 {
+  background: #3498db;
+}
+
+.div9 {
+  background: #2980b9;
+}
+
+.div10 {
+  background: #34495e;
+}
+
+.div11 {
+  background: #2c3e50;
+}
+
+.div12 {
+  background: #f1c40f;
+}
+
+.div13 {
+  background: #f39c12;
+}
+
+.div14 {
+  background: #e67e22;
+}
+
+.div15 {
+  background: #d35400;
+}
+
+.div16 {
+  background: #e74c3c;
+}
+
+.div17 {
+  background: #c0392b;
+}
+
+.div18 {
+  background: #ecf0f1;
+}
+
+.div19 {
+  background: #bdc3c7;
+}
+
+.div20 {
+  background: #95a5a6;
+}
+
+.div21 {
+  background: #7f8c8d;
+}
+
+.div22 {
+  background: #64b5f6;
+}
+
+.div23 {
+  background: #ff3d00;
+}
+
+.div24 {
+  background: #ff6d00;
+}
+
+.div25 {
+  background: #ffd600;
+}
+
+.div26 {
+  background: #64dd17;
+}
+
+.div27 {
+  background: #00c853;
+}
+
+.div28 {
+  background: #00e5ff;
+}
